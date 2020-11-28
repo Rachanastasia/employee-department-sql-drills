@@ -4,16 +4,16 @@
 
 ### employee
 
-. employee_id
-. department_id
-. boss_id
-. name
-. salary
+- employee_id
+- department_id
+- boss_id
+- name
+- salary
 
 ## department
 
-. department_id
-. name
+- department_id
+- name
 
 ## Questions
 
