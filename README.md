@@ -2,16 +2,18 @@
 
 ## Schema
 
-EMPLOYEE
-employee_id
-department_id
-boss_id
-name
-salary
+### employee
 
-DEPARTMENT
-department_id
-name
+. employee_id
+. department_id
+. boss_id
+. name
+. salary
+
+## department
+
+. department_id
+. name
 
 ## Questions
 
